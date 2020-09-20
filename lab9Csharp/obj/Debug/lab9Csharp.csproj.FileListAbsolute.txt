@@ -1,0 +1,7 @@
+D:\SEMESTR4\KS\lab9Csharp\lab9Csharp\bin\Debug\lab9Csharp.exe.config
+D:\SEMESTR4\KS\lab9Csharp\lab9Csharp\bin\Debug\lab9Csharp.exe
+D:\SEMESTR4\KS\lab9Csharp\lab9Csharp\bin\Debug\lab9Csharp.pdb
+D:\SEMESTR4\KS\lab9Csharp\lab9Csharp\obj\Debug\lab9Csharp.csprojAssemblyReference.cache
+D:\SEMESTR4\KS\lab9Csharp\lab9Csharp\obj\Debug\lab9Csharp.csproj.CoreCompileInputs.cache
+D:\SEMESTR4\KS\lab9Csharp\lab9Csharp\obj\Debug\lab9Csharp.exe
+D:\SEMESTR4\KS\lab9Csharp\lab9Csharp\obj\Debug\lab9Csharp.pdb
